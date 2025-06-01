@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Muhammad Salman Amin Arif</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Muhammad Salman Amin Arif</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 15 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mall Customer Data Analysis</title>
+      <link>http://localhost:1313/projects/project5/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project5/</guid>
+      <description>&lt;p&gt;Conducted an end-to-end data analysis and customer segmentation project using mall customer demographic and spending data. Employed exploratory data analysis (EDA) techniques, including statistical summaries and visualizations, to uncover patterns in customer age, income, and spending behavior. Implemented clustering algorithms such as K-Means and Hierarchical Clustering to segment customers into distinct groups based on purchasing habits. Elbow method and dendrograms were utilized for optimal cluster determination. The insights derived helped in identifying key customer profiles, enabling targeted marketing strategies. This project emphasized data-driven decision-making in a retail context and highlighted the importance of unsupervised learning in business analytics&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Time Series Temperature Forecasting (LSTM)</title>
+      <link>http://localhost:1313/projects/project6/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project6/</guid>
+      <description>&lt;p&gt;Developed a deep learning model for univariate time series forecasting using a stacked LSTM architecture to predict daily temperature trends. The project incorporated three LSTM layers and dense layers for improved temporal feature extraction and regression accuracy. Careful attention was given to input-output dimensionality using the return_sequences parameter and 1D output neuron configuration. EarlyStopping was implemented to optimize training time and avoid overfitting. Data normalization techniques, such as RobustScaler and outlier handling, were applied to ensure stable and reliable forecasting, especially for non-normally distributed data. Performance was validated on real-world temperature data using RMSE metrics, and the model was evaluated across training, validation, and test splits. This project highlights the effectiveness of LSTM networks in weather-related predictive modeling and contributes toward advancing applications in environmental time series forecasting.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Weather Data Analysis</title>
+      <link>http://localhost:1313/projects/project4/</link>
+      <pubDate>Thu, 15 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project4/</guid>
+      <description>&lt;p&gt;Developed a comprehensive data pipeline for weather pattern analysis using Python and Big Data technologies. Leveraged datasets containing temperature, humidity, and wind speed to investigate climate trends and anomalies. Implemented data ingestion and performed real-time data processing using PySpark for scalable transformation and aggregation. Developed advanced visualizations with Matplotlib and Seaborn to illustrate temporal changes in weather conditions. Emphasized data quality checks and missing value treatments to enhance reliability. Collaborated in a cloud-based Jupyter environment to support interactive data exploration and reproducibility.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Fitness Data Analysis</title>
+      <link>http://localhost:1313/projects/project1/</link>
+      <pubDate>Sat, 20 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project1/</guid>
+      <description>&lt;p&gt;Developed a machine learning pipeline to analyze and classify physical activity types based on accelerometer sensor data. Conducted thorough data preprocessing, including missing value treatment, encoding, and standardization to ensure model robustness. Applied supervised learning algorithms such as Random Forest and Decision Trees to predict exercise categories, leveraging time-domain and frequency-domain features. Evaluated model performance using metrics like accuracy, precision, recall, and F1-score. Emphasized explainability by interpreting feature importance and patterns across different activity levels. This project demonstrated the practical application of data-driven insights in the field of wearable fitness monitoring and human activity recognition&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Iris Data Analysis</title>
+      <link>http://localhost:1313/projects/project2/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project2/</guid>
+      <description>&lt;p&gt;Conducted a comprehensive analysis of the Iris dataset using statistical and machine learning techniques to classify iris species based on petal and sepal measurements. The project involved exploratory data analysis (EDA) to uncover patterns and correlations within the dataset, followed by the implementation of classification algorithms such as logistic regression, decision trees, and support vector machines (SVMs). Leveraged Python libraries like Pandas, Matplotlib, and Scikit-learn for data manipulation, visualization, and model training. Achieved high accuracy in species classification and contributed to a deeper understanding of feature importance in botanical datasets.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Diabetes Classification using Multi-Layer Perceptron</title>
+      <link>http://localhost:1313/projects/project3/</link>
+      <pubDate>Tue, 15 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/project3/</guid>
+      <description>&lt;p&gt;Developed a neural network-based model to classify diabetes using the Pima Indian dataset and a Multi-Layer Perceptron (MLP) architecture. The project emphasized structured preprocessing, including normalization and train-test splitting, to prepare the data for deep learning. Constructed and trained an MLP model using TensorFlow, leveraging dense layers with ReLU activation and dropout regularization to prevent overfitting. Evaluated model performance using accuracy and confusion matrix metrics. Hyperparameter tuning, such as batch size and epoch adjustments, contributed to model optimization. This project demonstrated the application of deep learning techniques in medical diagnostics, contributing to enhanced prediction of diabetes onset from clinical indicators.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

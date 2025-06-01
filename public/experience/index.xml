@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experiences on Muhammad Salman Amin Arif</title>
+    <link>http://localhost:1313/experience/</link>
+    <description>Recent content in Experiences on Muhammad Salman Amin Arif</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Associate Consultant @ IntElligence Tech Solutions</title>
+      <link>http://localhost:1313/experience/1/</link>
+      <pubDate>Sat, 31 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/1/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Designed and delivered data-driven strategies leveraging AI and advanced analytics to address key business challenges and optimize client performance.&lt;/li&gt;&#xA;&lt;li&gt;Led cross-functional workshops to identify digital transformation opportunities, resulting in a 25% increase in operational efficiency for enterprise clients.&lt;/li&gt;&#xA;&lt;li&gt;Developed custom machine learning models in Python to support predictive decision-making across supply chain and customer analytics domains.&lt;/li&gt;&#xA;&lt;li&gt;Translated complex technical insights into clear business recommendations, enabling stakeholders to make informed, high-impact decisions.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with engineering and product teams to implement scalable technology solutions, ensuring long-term client value and measurable ROI.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Python Developer Intern @ CODTECH IT SOLUTIONS</title>
+      <link>http://localhost:1313/experience/3/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/3/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Developed and optimized backend APIs using Python and Flask for internal tools, resulting in a 40% improvement in data processing efficiency.&lt;/li&gt;&#xA;&lt;li&gt;Collaborated with the frontend team to integrate RESTful APIs and ensure seamless communication between backend and UI components.&lt;/li&gt;&#xA;&lt;li&gt;Wrote unit tests and performed debugging to enhance code reliability and reduce post-deployment bugs by 25%.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Data Scientist Intern @ Solar Secure Solutions</title>
+      <link>http://localhost:1313/experience/2/</link>
+      <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/2/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Analyzed and preprocessed large volumes of data using Python (Pandas, NumPy) to identify trends and anomalies.&lt;/li&gt;&#xA;&lt;li&gt;Developed a machine learning model to predict panel efficiency based on weather patterns, improving forecasting accuracy by 35%.&lt;/li&gt;&#xA;&lt;li&gt;Built interactive data dashboards with Streamlit to communicate analytical insights to non-technical stakeholders, improving reporting clarity and engagement.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
